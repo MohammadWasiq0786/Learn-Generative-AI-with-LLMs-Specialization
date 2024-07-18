@@ -2,14 +2,7 @@
 
 1. Machine Learning and NLP Basics
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
-![MLNLP]()
+![image](https://github.com/user-attachments/assets/e2248683-2001-4c1d-a9ef-a1d45130899b)
 
 2. Generative AI Foundations
 
