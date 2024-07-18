@@ -1,6 +1,6 @@
 # Learn Generative-AI with LLMs Specialization
 
-1. Machine Learning and NLP Basics
+## 1. Machine Learning and NLP Basics
 
 ![image](https://github.com/user-attachments/assets/e2248683-2001-4c1d-a9ef-a1d45130899b)
 
