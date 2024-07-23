@@ -1,3 +1,3 @@
 # Learn Generative-AI with LLMs Specialization
 
-![certificate](<img width="694" alt="image" src="https://github.com/user-attachments/assets/4bcc61b2-c285-4e9b-86b1-1490a91a45a3">)
+![certificate](https://github.com/MohammadWasiq0786/Learn-Generative-AI-with-LLMs-Specialization/blob/main/edureka_llm_certificate.png)
